@@ -1,6 +1,6 @@
 <h1 align="center"> A deep learning based facial recognition application. </h1> <br>
 <p align="center">
-  A facial recognition application build using python with a easy to use GUI.
+  A facial recognition application build using python with an easy to use GUI.
 </p>
 
 ## Contents
